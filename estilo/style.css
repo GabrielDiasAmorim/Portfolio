@@ -118,7 +118,6 @@ article h2 {
     display: grid;
     grid-template-columns: 1fr;
     gap: 30px;
-    border: 2px solid red;
 }
 #skill-container .info {
     display: flex;
@@ -215,7 +214,6 @@ footer a:hover {
 @media screen and (min-width: 768px){
     #skill-container {
         grid-template-columns: 1fr 1fr;
-        border: 2px solid red;
     }
     #projeto-container .projeto {
         flex-direction: row-reverse;

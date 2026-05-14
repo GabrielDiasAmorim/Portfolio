@@ -174,7 +174,7 @@ article h2 {
 
 
 
-@media screen and (min-width:675px){
+@media screen and (min-width: 400px){
     #skill-container {
         grid-template-columns: 1fr 1fr;
     }

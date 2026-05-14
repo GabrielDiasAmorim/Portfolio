@@ -104,7 +104,7 @@ article h2 {
     position: relative;
     width: 100%;
     max-width: 500px;
-    margin: auto;
+    margin: 0 auto;
     aspect-ratio: 16/9;
     border: 5px solid red;
 }

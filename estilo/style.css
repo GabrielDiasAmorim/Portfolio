@@ -36,7 +36,7 @@ header {
     font-weight: 600;
     padding: 12px 15px;
     border-radius: 5px;
-    transition: backgound-color 0.5s, color 0.5s;
+    transition: background-color 0.5s, color 0.5s;
 }
 #menu a:hover {
     background-color: var(--destaque-inverso);
@@ -118,6 +118,7 @@ article h2 {
     display: grid;
     grid-template-columns: 1fr;
     gap: 30px;
+    border: 2px solid red;
 }
 #skill-container .info {
     display: flex;
@@ -214,6 +215,7 @@ footer a:hover {
 @media screen and (min-width: 768px){
     #skill-container {
         grid-template-columns: 1fr 1fr;
+        border: 2px solid red;
     }
     #projeto-container .projeto {
         flex-direction: row-reverse;

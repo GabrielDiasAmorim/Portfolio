@@ -102,7 +102,7 @@ article h2 {
 }
 .video-conteiner {
     position: relative;
-    width: 100%;
+    width: 90%;
     margin: auto;
     aspect-ratio: 16/9;
     border: 5px solid red;
